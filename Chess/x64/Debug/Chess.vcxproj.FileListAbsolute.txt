@@ -1,0 +1,5 @@
+C:\Users\test0\OneDrive\מסמכים\Magshimim\C++\chess\Chess\x64\Debug\Chess.exe
+C:\Users\test0\OneDrive\Documents\Magshimim\Year 11\Advanced principles\Week 7 - Chess Project Part1\chess\Chess\x64\Debug\Chess.exe
+C:\Users\test0\OneDrive\מסמכים\Magshimim\C++\chessproject\Chess\x64\Debug\Chess.exe
+C:\Users\test0\OneDrive\Documents\Magshimim\Year 11\Advanced principles\Projects\chessproject\Chess\x64\Debug\Chess.exe
+D:\Magshimim\C++\chessproject\Chess\x64\Debug\Chess.exe
